@@ -1,0 +1,44 @@
+{
+	"compiler": {
+		"version": "0.5.16+commit.9c3226ce"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"payable": false,
+				"stateMutability": "nonpayable",
+				"type": "constructor"
+			}
+		],
+		"devdoc": {
+			"methods": {}
+		},
+		"userdoc": {
+			"methods": {}
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"cuckhold.sol": "Context"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"cuckhold.sol": {
+			"keccak256": "0xdcec519b366b2a10f0ba43f8688f3f0e25df0c59c127a29190fdc8dcea14ddc6",
+			"urls": [
+				"bzz-raw://f26d9d0932b6fac653db1616b339d3551b86882d4d9ee88ca6bce96ec84ea89c",
+				"dweb:/ipfs/Qmf5uAcmYMK2Vq9oX2tJcaihxkHKM9rRq11MHEjhUjLP2F"
+			]
+		}
+	},
+	"version": 1
+}
